@@ -1,5 +1,9 @@
 import React from 'react';
 
-class menu extends React.Component {
-    
+class Menu extends React.Component {
+    render() {
+        return <h2>menu</h2>
+    }
 }
+
+export default Menu;
