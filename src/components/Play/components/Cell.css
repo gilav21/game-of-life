@@ -1,0 +1,10 @@
+.cell-wrapper {
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    background-color: #f2f2f2;
+}
+
+.filled {
+    background-color: #47e851;
+}

@@ -1,0 +1,19 @@
+.control-button {
+    background: none;
+    border-radius: 5px;
+    margin: 0 2px;
+}
+
+.control-button:hover {
+    background: #cfcfcf;
+}
+
+.control-button:disabled {
+    opacity: 0.7;
+    pointer-events: none;
+}
+
+.controls-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}

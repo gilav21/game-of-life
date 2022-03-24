@@ -1,0 +1,17 @@
+.row-wrapper {
+    display: grid;
+    grid-template-columns: 20px 100px;
+    grid-template-rows: auto auto;
+}
+
+.action-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.action-button:hover {
+    background-color: rgb(190, 188, 188);
+}
